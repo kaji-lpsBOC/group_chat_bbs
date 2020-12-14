@@ -1,4 +1,6 @@
 # group_chat_bbs
+
+グループチャットができる掲示板を作成しました。
 php + laravelフレームワーク + MySQLで作成しました。herokuにデプロイしています。
 
 実装した内容<br>
